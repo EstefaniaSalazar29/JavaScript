@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+}
+
+.inicio {
+    background-color: white;
+    border-color: #98C6FB;
+    border-width: 2px;
+    border-style: solid;
+    position: relative;
+    text-align: center;
+    padding: 100px;
+    margin: 270px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.imagen {
+    width: 200px;
+}
+
+#mensaje{
+    color: red;
+}
